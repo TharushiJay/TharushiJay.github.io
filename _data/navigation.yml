@@ -1,9 +1,11 @@
 # main links links
-main: 
-
+main:
+  - title: "Publications"
+    url: /publications/
+      
   - title: "Medium Blog"
     url: https://medium.com/@tharushi68
     
   - title: "CV"
-    url: https://tharushijay.github.io/files/cv.pdf.
+    url: https://tharushijay.github.io/files/CV.pdf.
     
