@@ -21,12 +21,13 @@ Publications
 News
 ======
 * **Nov 2022** : Published the book chapter "A Comprehensive Analysis of Aspect-Oriented Suggestion Extraction from Online Reviews" in Deep Learning Applications, Volume 4. Advances in Intelligent Systems and Computing, vol 1434. Springer, Singapore.
-* **Oct 2022** : Awarded the ICT Student Award in Undergraduate Category at the National ICT Awards 2022 organized by Computer Society of Sri Lanka.
-* **Aug 2022** : Attended the Cornell, Maryland, Max-Planck Pre-Doctoral Research School (CMMRS) 2022 in Saarbruecken, Germany.
-* **Jul 2022** : Graduated from University of Colombo School of Computing with the following awards.
+* **Oct 2022** : Awarded the ICT Student Award in Undergraduate Category at the National ICT Awards 2022 organized by Computer Society of Sri Lanka. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6995391576579461121/)
+* **Aug 2022** : Attended the Cornell, Maryland, Max-Planck Pre-Doctoral Research School (CMMRS) 2022 in Saarbruecken, Germany. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6975847103231135744/)
+* **Jul 2022** : Graduated from University of Colombo School of Computing with the following awards. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6958477122751344640/)
   1. Student of the Year Award 2020, University of Colombo - For excellence in academics, sports, aesthetic and cultural, leadership, conduct and character.
   2. Prof. Mohan Munasinghe Award in Computer Science 2020 - For achieving the highest GPA (3.98/ 4.0) in the Computer Science degree programme.
   3. Prof. V. K. Samaranayake Memorial Medal 2020 - For the Most Outstanding Graduate of the UCSC.
 
 * **Dec 2021** : Presented the research paper "Aspect Oriented Suggestion Extraction from Online Reviews" at 20th IEEE International Conference on Machine Learning and Applications (ICMLA) 2021.
+* **Nov 2021** : Presented "Improving Python Tools for Suricata: My Outreachy Internship" at SuriCon 2021, Boston, USA. [Link](https://www.youtube.com/watch?v=TtgPIFfLRLM)
 * **May 2021** : Started working as a Software Engineer at WSO2.
