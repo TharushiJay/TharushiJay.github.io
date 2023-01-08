@@ -10,7 +10,9 @@ redirect_from:
 
 I'm a Computer Science graduate from University of Colombo School of Computing (UCSC), Sri Lanka. I graduated with a First Class Honours at the top of my batch with a GPA of 3.98/ 4.0 and the award for Student of the Year Award 2020, University of Colombo awarded for excellence in academics, sports, aesthetic and cultural, leadership, conduct and character.
 
-My research interests are in Natural Language Processing, particularly applied NLP tasks such as information extraction, text generation and question answering. I’m also intrigued by research in the intersection of NLP and software engineering, having worked in developing language server features such as completions, code actions, signature help, hover, rename for over a year now for the compiler backend of Ballerina Programming Language at WSO2. My goal is to make machines understand the semantics of natural language commands, bridging the gap with programming languages so that in the future one could easily use natural language to instruct computers.
+I have a variety of research interests. I'm interested in Natural Language Processing, particularly applied NLP tasks such as information extraction, text generation and question answering. I’m also intrigued by research in the intersection of NLP and software engineering, having worked in developing language server features such as completions, code actions, signature help, hover, rename for over a year now for the compiler backend of Ballerina Programming Language at WSO2. My goal is to make machines understand the semantics of natural language commands, bridging the gap with programming languages so that in the future one could easily use natural language to instruct computers.
+
+Therefore, I would be interested in PhD opportunities across Natural Language Processing, Software Engineering and Programming Languages as well.
 
 Publications
 ======
