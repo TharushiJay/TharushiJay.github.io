@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a first year Computer Science PhD student at Cornell University.
 
-Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing language server features such as completions, code actions, signature help, hover, rename for the compiler backend of [Ballerina Programming Language](https://ballerina.io/).
+Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing language server features for the compiler backend of [Ballerina Programming Language](https://ballerina.io/).
 
 News
 ======
