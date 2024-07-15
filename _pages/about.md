@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year Computer Science PhD student at Cornell University.
+I'm a second year Computer Science PhD student working with [Prof. Immanuel Trummer](https://itrummer.github.io/) in the College of Computing and Information Science at Cornell University.
 
-Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing language server features for the compiler backend of [Ballerina Programming Language](https://ballerina.io/).
+Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing language server features for the compiler backend of [Ballerina Programming Language](https://ballerina.io/) for 2 years. In 2021, I completed my Bachelors (honours) in Computer Science from University of Colombo School of Computing, Sri Lanka.
 
 News
 ======
+* **Mar 2024** : [GRASSHOPR](https://einhorn.cornell.edu/opportunity/graduate-student-school-outreach-program-grasshopr/) Fellow - Graduate Student School Outreach Program at Cornell University.
+* **Jan 2024** : Attended [WELEAD](https://leadership.engineering.cornell.edu/what-we-do/we-lead/) (Spring 2024) - A Cornell Engineering Leadership Program supporting Cornell engineers on their path to becoming powerful and inclusive future leaders. 
+* **Aug 2023** : Awarded a Cornell University Fellowship for the Academic Year 2023/2024.
 * **Aug 2023** : Started my PhD in Computer Science at Cornell University!
 * **Nov 2022** : Published the book chapter "A Comprehensive Analysis of Aspect-Oriented Suggestion Extraction from Online Reviews" in Deep Learning Applications, Volume 4. Advances in Intelligent Systems and Computing, vol 1434. Springer, Singapore.
 * **Oct 2022** : Awarded the ICT Student Award in Undergraduate Category at the National ICT Awards 2022 organized by Computer Society of Sri Lanka. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6995391576579461121/)
