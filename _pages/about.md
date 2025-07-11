@@ -14,6 +14,8 @@ Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing l
 
 News
 ======
+* **Jul 2025** : Our paper "CEDAR: A System for Cost-Efficient Data-Driven Claim Verification" is accepted to VLDB 2025!
+* **Mar 2025** : Our paper "Demonstrating CEDAR: A System for Cost-Efficient Data-Driven Claim Verification" is accepted to SIGMOD 2025!
 * **Mar 2024** : [GRASSHOPR](https://einhorn.cornell.edu/opportunity/graduate-student-school-outreach-program-grasshopr/) Fellow - Graduate Student School Outreach Program at Cornell University.
 * **Jan 2024** : Attended [WELEAD](https://leadership.engineering.cornell.edu/what-we-do/we-lead/) (Spring 2024) - A Cornell Engineering Leadership Program supporting Cornell engineers on their path to becoming powerful and inclusive future leaders. 
 * **Aug 2023** : Awarded a Cornell University Fellowship for the Academic Year 2023/2024.
