@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Computer Science PhD student working with [Prof. Immanuel Trummer](https://itrummer.github.io/) in the College of Computing and Information Science at Cornell University.
+I'm a third year Computer Science PhD student working with [Prof. Immanuel Trummer](https://itrummer.github.io/) in the College of Computing and Information Science at Cornell University. 
+
+Large language models (LLMs) are transforming how we understand and analyze information, but the high inference cost makes it difficult to use them at scale. My research explores new ways to make these AI systems more efficient by enabling cost-effective data analysis for real-world applications.
 
 Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing language server features for the compiler backend of [Ballerina Programming Language](https://ballerina.io/) for 2 years. In 2021, I completed my Bachelors (honours) in Computer Science from University of Colombo School of Computing, Sri Lanka.
 
