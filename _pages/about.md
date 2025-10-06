@@ -36,6 +36,10 @@ News
 
 Publications
 ======
-1. Jayasekara, T.K., Weerasinghe, A.R., Welgama, W.V. (2023). [A Comprehensive Analysis of Aspect-Oriented Suggestion Extraction from Online Reviews](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_5). In: Wani, M.A., Palade , V. (eds) Deep Learning Applications, Volume 4. Advances in Intelligent Systems and Computing, vol 1434. Springer, Singapore. https://doi.org/10.1007/978-981-19-6153-3_5
+1. Tharushi Jayasekara and Immanuel Trummer. 2025. [CEDAR: A System for Cost-Efficient Data-Driven Claim Verification.](https://dl.acm.org/doi/10.14778/3749646.3749708) Proc. VLDB Endow. 18, 11 (July 2025), 4492–4504. https://doi.org/10.14778/3749646.3749708
 
-2. T. Jayasekara, R. Weerasinghe and V. Welgama, [Aspect Oriented Suggestion Extraction from Online Reviews](https://ieeexplore.ieee.org/document/9680099), 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021, pp. 1561-1568, doi: 10.1109/ICMLA52953.2021.00250.
+2. Tharushi Jayasekara and Immanuel Trummer. 2025. [Demonstrating CEDAR: A System for Cost-Efficient Data-Driven Claim Verification.](https://dl.acm.org/doi/10.1145/3722212.3725098) In Companion of the 2025 International Conference on Management of Data (SIGMOD/PODS '25). Association for Computing Machinery, New York, NY, USA, 135–138. https://doi.org/10.1145/3722212.3725098
+
+3. Jayasekara, T.K., Weerasinghe, A.R., Welgama, W.V. (2023). [A Comprehensive Analysis of Aspect-Oriented Suggestion Extraction from Online Reviews](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_5). In: Wani, M.A., Palade , V. (eds) Deep Learning Applications, Volume 4. Advances in Intelligent Systems and Computing, vol 1434. Springer, Singapore. https://doi.org/10.1007/978-981-19-6153-3_5
+
+4. T. Jayasekara, R. Weerasinghe and V. Welgama, [Aspect Oriented Suggestion Extraction from Online Reviews](https://ieeexplore.ieee.org/document/9680099), 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021, pp. 1561-1568, doi: 10.1109/ICMLA52953.2021.00250.
