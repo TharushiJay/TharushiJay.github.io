@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year Computer Science PhD student working with [Prof. Immanuel Trummer](https://itrummer.github.io/) in the College of Computing and Information Science at Cornell University. 
+I'm a third year Computer Science PhD candidate working with [Prof. Immanuel Trummer](https://itrummer.github.io/) in the College of Computing and Information Science at Cornell University. 
 
 Large language models (LLMs) are transforming how we understand and analyze information, but the high inference cost makes it difficult to use them at scale. My research explores new ways to make these AI systems more efficient by enabling cost-effective data analysis for real-world applications.
 
@@ -16,6 +16,7 @@ Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing l
 
 News
 ======
+* **Dec 2025** : I passed my A-Exam! I am officially a PhD candidate at Cornell CIS.
 * **Jul 2025** : Our paper "CEDAR: A System for Cost-Efficient Data-Driven Claim Verification" is accepted to VLDB 2025!
 * **Mar 2025** : Our paper "Demonstrating CEDAR: A System for Cost-Efficient Data-Driven Claim Verification" is accepted to SIGMOD 2025!
 * **Mar 2024** : [GRASSHOPR](https://einhorn.cornell.edu/opportunity/graduate-student-school-outreach-program-grasshopr/) Fellow - Graduate Student School Outreach Program at Cornell University.
