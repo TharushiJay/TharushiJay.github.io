@@ -16,6 +16,8 @@ Before that, I was a Software Engineer at [WSO2](https://wso2.com/) developing l
 
 News
 ======
+* **Aug 2025** : Our paper "Demonstrating TACT: Tunable Accuracy-Cost Trade-offs for Semantic Image Filtering" is accepted to VLDB 2026! See you in Boston.
+* **Jun 2026** : I joined the Systems Research Group at Google as a Student Researcher for the summer.
 * **Dec 2025** : I passed my A-Exam! I am officially a PhD candidate at Cornell CIS.
 * **Jul 2025** : Our paper "CEDAR: A System for Cost-Efficient Data-Driven Claim Verification" is accepted to VLDB 2025!
 * **Mar 2025** : Our paper "Demonstrating CEDAR: A System for Cost-Efficient Data-Driven Claim Verification" is accepted to SIGMOD 2025!
